@@ -35,7 +35,7 @@ LightTracker 1.1 433MHz will ber available on https://shop.qrp-labs.com/aprs for
 - **GPS Antenna Gain** : 4.3 dBi
 - **Extended Pins** : I2C, 2x Analog, 1x DAC
 
-<img src="images/light_tracker_1_1-433-weight" width="600">
+<img src="images/light_tracker_1_1-433-weight.jpg" width="600">
 
 ## Configuration
 
@@ -66,7 +66,7 @@ Download and install [Arduino IDE](https://www.arduino.cc/en/Main/Software). If 
 You are almost ready to programme LightTracker 1.1 433MHz :)
 
 - First download the repository to your computer using the green "[Code -> Download ZIP](https://github.com/lightaprs/LightTracker-1.1-433/archive/refs/heads/main.zip)" button and extract it.
-- You will see more than one Arduino project optimized for different use cases. For example if you are planning to use LightTracker for a pico balloon project, then use "[lorawan-otaa-pico-balloon-tracker](lorawan-otaa-pico-balloon-tracker)" folder or if you want to track your assets, vehicles, etc. then use "[lorawan-otaa-asset-tracker](lorawan-otaa-asset-tracker)" folder.
+- You will see more than one Arduino project optimized for different use cases. For example if you are planning to use LightTracker 1.1 433MHz for a pico balloon project, then use "[lora-aprs-pico-balloon-tracker](lora-aprs-pico-balloon-tracker)" folder or if you want to track your assets, vehicles, etc. then use "[lora-aprs-asset-tracker](lora-aprs-asset-tracker)" folder.
 - You will also notice some folders in the "libraries" folder. You have to copy these folders (libraries) into your Arduino libraries folder on your computer. Path to your Arduino libraries:
 
   **Windows** : This PC\Documents\Arduino\libraries\
@@ -75,7 +75,7 @@ You are almost ready to programme LightTracker 1.1 433MHz :)
 
 - Copy all of them into your Arduino libraries folder as follows:
 
-![image](![copy-to-library](https://github.com/lightaprs/LightTracker-1.1-433/assets/48382675/bd6abf9f-026b-4b3c-b201-843fc00fa3cb))
+![copy-to-library](https://github.com/lightaprs/LightTracker-1.1-433/assets/48382675/540e9290-7f88-4602-8500-f8d4e08963ad)
 
 - Then open the relevant sketch file (*.ino) with Arduino IDE and change your settings as described in Wiki pages and save it.
 - Click **Verify**
