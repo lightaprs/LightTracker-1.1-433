@@ -82,7 +82,7 @@ You are almost ready to programme LightTracker 1.1 433MHz :)
 
 ### 4.Upload
 
-- First attach an antenna to your tracker as if described in [Antenna Guide] LoRa radio module may be damaged if operated without attaching an antenna, since power has nowhere to go.
+- First attach an antenna to your tracker as if described in [Antenna Guide](https://github.com/lightaprs/LightTracker-1.1-433/wiki/Antenna-Guide) LoRa radio module may be damaged if operated without attaching an antenna, since power has nowhere to go.
 - Connect LightTracker to your computer with a micro USB cable.
 - IYou should see a COM port under **Tools->Port** menu item. Select that port.
 
@@ -99,6 +99,6 @@ If you have any questions or need support, please contact support@lightaprs.com
 
 ### General
 
-* **[F.A.Q.]**
-* **[Antenna Guide]**
-* **[Tips & Tricks for Pico Balloons]**
+* **[F.A.Q.](https://github.com/lightaprs/LightTracker-1.1-433/wiki/F.A.Q.)**
+* **[Antenna Guide](https://github.com/lightaprs/LightTracker-1.1-433/wiki/Antenna-Guide)**
+* **[Tips & Tricks for Pico Balloons](https://github.com/lightaprs/LightTracker-1.1-433/wiki/Tips-&-Tricks-for-Pico-Balloons)**
