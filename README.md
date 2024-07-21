@@ -4,7 +4,7 @@ LightTracker 1.1 433MHz is one of the most affordable, smallest, lightest, power
 It is able to report location, altitude, temperature and pressure to the internet via LoRa APRS gateways or direct to another LoRa radio module with a solar panel/super capacitors or just 3xAAA batteries.
 Because LightTracker 1.1 433MHz is open source you can add your own custom sensors via I2C pins.
 
-LightTracker 1.1 433MHz will ber available on https://shop.qrp-labs.com/aprs for order soon.
+LightTracker 1.1 433MHz is available on https://shop.qrp-labs.com/aprs/LightTracker_1_1_433 for shopping.
 
 <img src="images/light_tracker_1_1-433-front_back.jpg" width="600">
 
