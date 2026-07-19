@@ -6,6 +6,8 @@ Because LightTracker 1.1 433MHz is open source you can add your own custom senso
 
 LightTracker 1.1 433MHz is available on https://shop.qrp-labs.com/aprs/LightTracker_1_1_433 for shopping.
 
+Also if you are looking for a tracker especially for HABs (weather/latex balloons) than check out our new product: https://github.com/lightaprs/LightHABTracker-1.0
+
 <img src="images/light_tracker_1_1-433-front_back.jpg" width="600">
 
 **Important :** LightTracker 1.1 433 MHz may requires an amateur radio license to operate if 433 MHz is not ISM band in your country. So check regulations before using it.
